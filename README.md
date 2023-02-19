@@ -285,8 +285,7 @@
 <p style="display: flex; width: 95%; justify-content: center; align-items: center; padding: 20px">
   <img
       style="text-align: left;"
-      src="https://github-readme-stats.vercel.app/api/top-langs?
-username=ronald-tchuekou&show_icons=true&locale=en&layout=compact&langs_count=8"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=ronald-tchuekou&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia"
       alt="ronald-tchuekou"/>
 </p>
 
