@@ -1,10 +1,10 @@
-<h1 style="text-align: center;">Hi 👋, I'm Ronald Tchuekou</h1>
+<h1 style="text-align: center; color: #04a8f4;">Hi 👋, I'm Ronald Tchuekou</h1>
 <h3 style="text-align: center;">A passionate full stack developer from Cameroon</h3>
 
 <p style="display: flex; width: 95%; justify-content: center; align-items: center; padding: 30px 20px">
   <img
       style="text-align: center;"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=ronald-tchuekou&"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=ronald-tchuekou&theme=algolia"
       alt="ronald-tchuekou"/>
 </p>
 
@@ -285,13 +285,14 @@
 <p style="display: flex; width: 95%; justify-content: center; align-items: center; padding: 20px">
   <img
       style="text-align: left;"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=ronald-tchuekou&show_icons=true&locale=en&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs?
+username=ronald-tchuekou&show_icons=true&locale=en&layout=compact&theme=algolia"
       alt="ronald-tchuekou"/>
 </p>
 
 <p style="display: flex; width: 95%; justify-content: center; align-items: center; padding: 0 20px">
   &nbsp;<img
     style="text-align: center;"
-    src="https://github-readme-stats.vercel.app/api?username=ronald-tchuekou&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=ronald-tchuekou&show_icons=true&locale=en&theme=algolia"
     alt="ronald-tchuekou"/>
 </p>
