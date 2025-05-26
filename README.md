@@ -1,7 +1,7 @@
 <h1 style="text-align: center; color: #04a8f4;">Hi 👋, I'm Ronald Tchuekou</h1>
 <h3 style="text-align: center;">A passionate full stack developer from Cameroon</h3>
 
-- 🔭 Check my portofolio at [Ronald Tchuekou Portofolio](https://roncoder-beta.vercel.app)
+- 🔭 Check my portofolio at [Ronald Tchuekou Portofolio](https://roncoder.agyl.tech)
 
 - 🔭 I’m currently working at [AGYL TECH](agyl.tech)
 
