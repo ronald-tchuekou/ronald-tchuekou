@@ -138,12 +138,11 @@ Building production-grade web & mobile applications, designing scalable APIs, an
 
 <div align="center">
 
-<a href="https://roncoder.agyl.tech">
+<a href="https://github.com/ronald-tchuekou/roncoder-portfolio-beta">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ronald-tchuekou&repo=roncoder-portfolio-beta&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=04A8F4&icon_color=04A8F4" />
 </a>
 
-<!-- Remplace les noms de repo ci-dessous par tes vrais projets phares -->
-<a href="https://github.com/roncoder">
+<a href="https://github.com/ronald-tchuekou/mappeos-beta">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ronald-tchuekou&repo=mappeos-beta&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=04A8F4&icon_color=04A8F4" />
 </a>
 
