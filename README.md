@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <a href="https://roncoder.agyl.tech">
+  <a href="https://roncoder-beta.vercel.app">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=04A8F4&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ronald+%F0%9F%91%8B;Full+Stack+Developer+from+Cameroon+%F0%9F%87%A8%F0%9F%87%B2;Building+modern+web+%26+mobile+apps;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
@@ -14,7 +14,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ronald-tchuekou&label=Profile%20views&color=04a8f4&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/roncoder?label=Followers&style=for-the-badge&color=04a8f4" alt="followers" />
-  <a href="https://roncoder.agyl.tech">
+  <a href="https://roncoder-beta.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-04A8F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" />
   </a>
 </div>
@@ -162,7 +162,7 @@ Building production-grade web & mobile applications, designing scalable APIs, an
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-04A8F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://roncoder.agyl.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-04A8F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://roncoder-beta.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronald-tchuekou-02129b191)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tchuekouronald)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ronald-tchuekou)
